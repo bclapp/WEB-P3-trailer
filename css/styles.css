@@ -12,11 +12,12 @@ OVERRIDE MEDIA ELEMENT PLAYER STYLING
 
 /* [] 1. Change overlayed play button */
 .mejs-378 .mejs-overlay-button {
- 
+ 	
 }
 
 /* [] 2. Control Wrapper Positioning */
 .mejs-378 .mejs-controls {
+	background-image: url("http://img2.wikia.nocookie.net/__cb20101018151244/starwars/images/7/72/Hyperspace-SWPuzzle.jpg");
 
 }
 
@@ -36,14 +37,24 @@ OVERRIDE MEDIA ELEMENT PLAYER STYLING
 }
 
 .mejs-378 .mejs-controls .mejs-time-rail .mejs-time-loaded {
-	background: green;
+	background: rgb(255,255,255);
+	height: 5px;
+	outline: #D41E27 solid thick;
 }
 
 .mejs-378 .mejs-controls .mejs-time-rail .mejs-time-current {
-	background: red;
+	background: rgb(255,255,255);
+	height: 5px;
+	outline: #3D16D9 solid thick;
+
+}
+/* ADD MORE STYLING. MAKE IT YOUR OWN. */
+
+body {
+	background-image: url("http://i.imgur.com/l0GBR1Z.jpg");
+	background-repeat: repeat-y;
 }
 
-/* ADD MORE STYLING. MAKE IT YOUR OWN. */
 
 
 /********************
