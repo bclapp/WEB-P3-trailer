@@ -52,7 +52,6 @@ OVERRIDE MEDIA ELEMENT PLAYER STYLING
 
 body {
 	background-image: url("http://i.imgur.com/l0GBR1Z.jpg");
-	background-repeat: repeat-y;
 	background-attachment: fixed;
 }
 
