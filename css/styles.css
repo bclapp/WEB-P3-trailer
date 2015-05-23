@@ -12,7 +12,7 @@ OVERRIDE MEDIA ELEMENT PLAYER STYLING
 
 /* [] 1. Change overlayed play button */
 .mejs-378 .mejs-overlay-button {
- 	
+ 	background-image: url(http://img2.wikia.nocookie.net/__cb20080220004323/starwars/images/2/2e/Imperial_Emblem.svg);
 }
 
 /* [] 2. Control Wrapper Positioning */
