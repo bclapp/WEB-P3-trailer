@@ -55,6 +55,11 @@ body {
 	background-attachment: fixed;
 }
 
+h3,
+p {
+	color: white;
+}
+
 
 
 /********************
